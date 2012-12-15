@@ -3,7 +3,7 @@ layout: post
 title: "做个批判性思考者"
 description: ""
 category: notes
-tags: [批判性思考,性格]
+tags: [批判性思考, 性格]
 ---
 {% include JB/setup %}
 ![超越感觉：批判性思考指南](http://img3.douban.com/lpic/s7631880.jpg)

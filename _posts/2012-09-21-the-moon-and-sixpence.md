@@ -3,7 +3,7 @@ layout: post
 title: "一个惹人嫌的人，但我还是认为他是一个伟大的人"
 description: ""
 category: notes
-tags: [毛姆,理想,爱情]
+tags: [毛姆, 理想, 爱情]
 ---
 {% include JB/setup %}
 ![月亮和六便士](http://img3.douban.com/lpic/s6520071.jpg)

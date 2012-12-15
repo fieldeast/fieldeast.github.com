@@ -3,7 +3,7 @@ layout: post
 title: "从十字绣说起"
 description: ""
 category: life
-tags: [十字绣,暴雨,性格]
+tags: [十字绣, 暴雨, 性格]
 ---
 {% include JB/setup %}
 ![清风香露](http://www.baidupcs.com/thumbnail/%E6%B8%85%E9%A3%8E%E9%A6%99%E9%9C%B2.jpg?fid=2368459659-250528-202335919&time=1355559551&sign=FPDTAE-DCb740ccc5511e5e8fedcff06b081203-nRShyFr2UhG3slviv2Djh3IkP1w%3D&expires=8h&digest=311c17f7ca7f1026cd73e608c65c7e9b&size=c850_u580&quality=100)

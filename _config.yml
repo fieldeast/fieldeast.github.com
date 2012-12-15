@@ -81,9 +81,9 @@ JB :
   #
   comments :
     provider : disqus
-   
-
-    livefyre :
+    disqus :
+	    short_name : fieldeast
+	livefyre :
         site_id : 123
     intensedebate :
         account : 123abc
